@@ -1,29 +1,22 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Semana 1 #
 
-### What is this repository for? ###
+1. Crear un proyecto de Node JS.
+2. Resguardar tu proyecto con GIT sobre Bitbucket.
+3. Configurar librerías con NPM.
+4. Aplicar los conceptos básicos de la programación web y Express.
+5. En tu proyecto deberá verse:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# En tu proyecto deberá verse: #
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. un archivo README (sólo texto) en el repositorio de Bitbucket.
+2. el mensaje de bienvenida a Express.
+3. el proyecto vinculado con el repositorio de Bitbucket creado previamente.
+4. el servidor que se ve correctamente, comparándolo con la versión original.
+5. un mapa centrado en una ciudad.
+6. marcadores indicando una ubicación.
+7. un script npm en el archivo package.json, debajo del “start”, que se llama “devstart” y que levanta el servidor utilizando npdemon.
+8. un par de bicicletas en la colección que conoce la bicicleta en memoria, con las ubicaciones cercanas al centro del mapa agregado.
+9. una colección del modelo de bicicleta.
+10. los endpoints de la API funcionando con Postman.
